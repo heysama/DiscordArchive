@@ -5,8 +5,12 @@ An archive of discord exploits I have found and other discord stuff ig? Note: I 
 # Patched
 
 - Classic nitro -> Booster nitro
-- Account generation "exploit" -> Made by CDD, lol dropped on pastebin
+- Server lag exploit
 
 # Working!
 
-- Server lag exploit
+- Account generation "exploit" -> Made by CDD, lol dropped on pastebin
+
+# Private
+
+- None lol xd omegalul
